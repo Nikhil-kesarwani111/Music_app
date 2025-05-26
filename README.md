@@ -1,4 +1,4 @@
-# 🎸 Music Rock App
+# 🎸 Music App
 
 A beautifully designed **Flutter music learning app** built using **BLoC Architecture** (also known as Clean Code Architecture). It features adaptive design, modular folders, and Firebase services to ensure scalability and performance.
 
