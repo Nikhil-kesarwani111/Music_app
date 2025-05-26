@@ -1,16 +1,33 @@
-# music_rock
+# 🎸 Music Rock App
 
-A new Flutter project.
+A beautifully designed **Flutter music learning app** built using **BLoC Architecture** (also known as Clean Code Architecture). It features adaptive design, modular folders, and Firebase services to ensure scalability and performance.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🧠 Architecture
 
-A few resources to get you started if this is your first Flutter project:
+This app follows the **BLoC (Business Logic Component)** pattern and clean architecture principles:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📁 Folder Structure
+<h2>📸 Screenshot</h2>
+
+<img src="https://github.com/user-attachments/assets/e6f9123a-f1fb-40bd-8d90-7b81507374b4" alt="Screenshot" width="300" height="350" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
+
+
+
+---
+
+## 🚀 Features
+
+- 🎹 Animated Hero Section with disk and piano widgets
+- 🧱 Scalable, clean architecture with BLoC
+- 📱 Responsive layout using `flutter_screenutil`
+- 🔥 Firebase integration via service layer
+- 🧭 Navigation using `app_routes` and dependency injection with GetIt
+
+---
+
+
