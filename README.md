@@ -54,7 +54,7 @@ This app follows the **BLoC (Business Logic Component)** pattern and clean archi
 ## 📁 Folder Structure
 <h2>📸 Screenshot</h2>
 
-## 📸 Screenshots
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e6f9123a-f1fb-40bd-8d90-7b81507374b4" alt="Screenshot 1" height="350" />
