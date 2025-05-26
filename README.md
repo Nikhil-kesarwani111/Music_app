@@ -58,21 +58,39 @@ This app follows the **BLoC (Business Logic Component)** pattern and clean archi
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e6f9123a-f1fb-40bd-8d90-7b81507374b4" alt="Screenshot 1" height="350" />
-  <img src="https://github.com/user-attachments/assets/YOUR-SECOND-IMAGE-ID" alt="Screenshot 2" height="350" />
-  <img src="https://github.com/user-attachments/assets/YOUR-THIRD-IMAGE-ID" alt="Screenshot 3" height="350" />
+  <img src="https://github.com/user-attachments/assets/980314b1-d6fa-4d31-8be5-9f288dcdc9e2" alt="Screenshot 2" height="350" />
+  <img src="https://github.com/user-attachments/assets/c8132fe8-4563-4ef8-bc42-59cc25905316" alt="Screenshot 3" height="350" />
 </p>
+
 
 
 ---
 
 ## 🚀 Features
 
-- 🎹 Animated Hero Section with disk and piano widgets
+- 🎹 Hero Section with disk and piano widgets
 - 🧱 Scalable, clean architecture with BLoC
 - 📱 Responsive layout using `flutter_screenutil`
 - 🔥 Firebase integration via service layer
 - 🧭 Navigation using `app_routes` and dependency injection with GetIt
 
 ---
+
+## 🎬 Demo Videos
+
+| 📱 **App Walkthrough** | 🧠 **Code Structure Overview** |
+|------------------------|-------------------------------|
+| ▶️ [Watch App Demo](https://drive.google.com/file/d/1QY2msR1cRss3k1pO2sUhI2UFxNu_5k3d/view?usp=drive_link) | 🛠️ [Explore Code Flow](https://drive.google.com/file/d/19PKVXvcqApE41T9hElGg5_Huenb1yCVh/view?usp=drive_link) |
+
+---
+
+## 🧑‍💻 Developed By
+
+**Nikhil** – Flutter Developer | BLoC | Firebase | Clean Architecture
+
+---
+
+⭐️ *Feel free to fork, star, and contribute to this project!*  
+
 
 
