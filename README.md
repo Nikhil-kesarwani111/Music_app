@@ -93,4 +93,9 @@ This app follows the **BLoC (Business Logic Component)** pattern and clean archi
 ⭐️ *Feel free to fork, star, and contribute to this project!*  
 
 
+> 📌 **Note**:  
+> - For image handling, I have used **network image URLs** stored in Firestore instead of Firebase Storage, as Firebase Storage requires billing to be enabled.  
+> - There may be slight delays or pending updates since I’m currently occupied with **semester exams**. Thank you for your understanding!
+
+
 
