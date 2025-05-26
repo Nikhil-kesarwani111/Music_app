@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1077946212560",
+    "firebase_url": "https://flutter-prep-d83af-default-rtdb.firebaseio.com",
+    "project_id": "flutter-prep-d83af",
+    "storage_bucket": "flutter-prep-d83af.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077946212560:android:70ca1d62cb4f8a1fc5bed5",
+        "android_client_info": {
+          "package_name": "com.example.music_rock"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqNyByx1G1RpeVb0ZagtZk0XywKXk_21I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
