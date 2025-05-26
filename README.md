@@ -9,6 +9,46 @@ A beautifully designed **Flutter music learning app** built using **BLoC Archite
 This app follows the **BLoC (Business Logic Component)** pattern and clean architecture principles:
 
 
+## 🚀 Features
+
+- 🎯 **Purpose**: A sleek app to explore musical instruments and promote music learning.
+
+- 🧱 **Architecture**: Implements **BLoC (Business Logic Component)** pattern, also known as **Clean Architecture**.
+
+- 📁 **Modular Folder Structure**:
+  - `bloc/` – Manages state using BLoC for a reactive UI.
+  - `config/` – Centralized app configurations like:
+    - App colors
+    - Constants
+    - Routing/navigation
+    - Service locator via `get_it`
+  - `data/` – Contains:
+    - `repository/` – Connects BLoC with services
+    - `services/` – Handles Firebase and backend operations
+  - `service/` – Contains core services and helper functions
+  - `view/` – Includes all screens and their reusable widgets
+
+- 🔥 **Firebase Integration**:
+  - Firestore setup and usage through services
+  - Follows repository pattern for clean separation of logic
+
+- 🌈 **UI Highlights**:
+  - Custom widgets like `DiskWidget`, `PiannoWidget`, and `FreeDemoBanner`
+  - Gradient backgrounds, stacked visuals, and stylish design
+  - Built with `flutter_screenutil` for responsive layouts
+
+- 🧭 **Navigation**:
+  - Handled through a custom router using `config/router.dart`
+
+- 📦 **Packages Used**:
+  - `flutter_bloc` – State management
+  - `get_it` – Dependency injection
+  - `firebase_core`, `cloud_firestore` – Backend services
+  - `flutter_screenutil` – Responsive UI
+  - `equatable` – Value comparison
+
+
+
 ---
 
 ## 📁 Folder Structure
